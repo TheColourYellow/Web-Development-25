@@ -1,0 +1,28 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: crimson;
+}
+
+a:hover {
+  color: cyan;
+}
+
+img {
+  border: 5px solid blue;
+  border-radius: 10rem;
+}
+
+table {
+}
+
+tr:nth-child(even) {
+  background-color: plum;
+}
+
+ul {
+  list-style: decimal-leading-zero;
+}
